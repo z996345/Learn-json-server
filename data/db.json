@@ -1,0 +1,23 @@
+{
+	"post": [{
+			"id": 1,
+			"name": "my name is number 100"
+		},
+		{
+			"id": 2,
+			"name": "my name is number 2"
+		}
+	],
+	"book": [{
+			"id": 1,
+			"name": "this is a book"
+		},
+		{
+			"id": 2,
+			"name": "the world is full"
+		}
+	],
+	"author": {
+		"name": "michael"
+	}
+}
